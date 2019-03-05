@@ -1,0 +1,8637 @@
+[
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "immunoglobulin production"
+    },
+    {
+        "label": "Physical",
+        "pos": "VB DT TO NN NN",
+        "text": "stimulate the to influenza vaccination"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN NN CC NN NNS",
+        "text": "levels of influenza-specific IgA and IgG antibodies"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "influenza-specific IgM antibodies"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNP",
+        "text": "Knee Society"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NNS",
+        "text": "Total knee scores"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "knee function scores"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NNS",
+        "text": "pain scores"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "WOMAC scores"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "knee motion"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "activity scores"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "oscillatory parameters"
+    },
+    {
+        "label": "Other",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Raw"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "tc-PO2"
+    },
+    {
+        "label": "Other",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Raw"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Raw"
+    },
+    {
+        "label": "Other",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "FEV1"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Raw"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "FEV1"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "oscillatory resistance"
+    },
+    {
+        "label": "Other",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Raw"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "glucose tolerance"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "glucose"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "insulin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN IN DT NNS",
+        "text": "insulin or glucose under the values"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN NNS",
+        "text": "glucose and insulin responses"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "high-sensitivity C-reactive protein"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "CD40 ligand"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "P-selectin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN JJ NN",
+        "text": "N-terminal pro-brain natriuretic peptide"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "model-adjusted CD40-ligand levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "high-sensitivity C-reactive protein"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "P-selectin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN JJ NN",
+        "text": "N-terminal pro-brain natriuretic peptide"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NNS",
+        "text": "deaths"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ JJ NNS",
+        "text": "serious adverse events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN DT NN NN",
+        "text": "expression of the CD40-ligand biomarker"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS IN DT CD NN NNS",
+        "text": "outcomes between the two time points"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "anxiety levels"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "anxiety levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "abnormal cytological examinations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN NNS",
+        "text": "proportion of DNA aneuploid histograms"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "biomarker"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "Recurrence-free survival"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "dark adaptability"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "mild dermatological alterations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "content distribution"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN JJ NNS",
+        "text": "morphology of urothelial cells"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "Recurrence-free survival"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN IN NN",
+        "text": "steady state of BMS-181101"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN DT IN NN",
+        "text": "food on the of BMS-181101"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "intact BMS-181101"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN",
+        "text": "tolerated"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "Cmin values"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "steady state"
+    },
+    {
+        "label": "Other",
+        "pos": "NN VBD VBN",
+        "text": "Cmax was reduced"
+    },
+    {
+        "label": "Other",
+        "pos": "NN VBD JJ",
+        "text": "tmax was prolonged"
+    },
+    {
+        "label": "Other",
+        "pos": "NN , NN , CC NN TO VB JJ NN IN NN",
+        "text": "AUCtau , t1/2 , and time to attain steady state of BMS-181101"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NNS",
+        "text": "pharmacokinetic profiles"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NNS",
+        "text": "conversational skills"
+    },
+    {
+        "label": "Mental",
+        "pos": "VB NN NNS",
+        "text": "peer entry skills"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "friendship"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "good sportsmanship"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN NN IN NN NNS",
+        "text": "good host behavior during play dates"
+    },
+    {
+        "label": "Mental",
+        "pos": "VBG VBG",
+        "text": "handling teasing"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "social skill"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN NN",
+        "text": "play date behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN CC NN",
+        "text": "popularity and loneliness"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "blood pressure levels"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN RB VBN NNS",
+        "text": "number of inadequately treated subjects"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN NN NN NN",
+        "text": "detected blood pressure elevation"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "lumbar flexion range"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "Pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "lumbar flexion range"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "lumbar flexion range"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "lumbar flexion range"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "lumbar flexion range"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "lumbar flexion range"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN",
+        "text": "assessment of outcome"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "assessment"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN",
+        "text": "assessment of outcome"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NNP NNP",
+        "text": "extended Glasgow Scale"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "ratings"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN",
+        "text": "Substantial observer variation"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "discrepancies"
+    },
+    {
+        "label": "Other",
+        "pos": "NNP NN",
+        "text": "Observer variation"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "assessment"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "rate"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "VBG CC JJ NN",
+        "text": "vomiting and hematologic toxicity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP IN DT JJ NNS",
+        "text": "MVC of the plantar flexors"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NN ( NN ( NN ) ) NN",
+        "text": "V wave-to-maximal M wave ( V/M ( max ) ) ratio"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NN ( NN ( NN ) : ( NN ) ) NN",
+        "text": "H wave-to-maximal M wave ( H ( max ) / ( max ) ) ratio"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN ) NN",
+        "text": "V/M ( max ) ratio"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN ) : ( NN )",
+        "text": "H ( max ) / ( max )"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "analgesic efficacy"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN NN",
+        "text": "post-tonsillectomy pain management"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NNS RB RB",
+        "text": "pain levels twice daily"
+    },
+    {
+        "label": "Pain",
+        "pos": "JJ NNS IN NN",
+        "text": "postoperative days of pain"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NNS IN JJ",
+        "text": "postoperative days of analgesic"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "postoperative hemorrhage"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "analgesic"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN NN",
+        "text": "post-tonsillectomy pain relief"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "Brief Fatigue Inventory"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN IN DT NNP NNP NNP NN ( NN )",
+        "text": "vitality subscale of the Medical Scale Short Form-36 ( SF-36 )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN IN NNP NNP",
+        "text": "Global Impression of Benefit Scale"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "Brief Fatigue Inventory"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "vitality subscale"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "satisfied"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NNS",
+        "text": "toxicities"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "two-year survival"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "mortality"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "cardiovascular mortality"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "cardiovascular mortality"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "cardiovascular mortality"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "cardiovascular death"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NNS",
+        "text": "cardiovascular deaths"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "cardiovascular death"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "depression"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NN",
+        "text": "previous myocardial infarction"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "low ejection fraction"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN NN NN",
+        "text": "decreased heart rate variability"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "ventricular ectopic beats"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "all-cause mortality"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NNS",
+        "text": "deaths"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NNS",
+        "text": "deaths"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "cardiovascular death"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "relative importance"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN , NN NN , NN ( DT ) [ NN ( DT ) ] , CC NN NN ( NN ) NNS",
+        "text": "lipid , apo B , lipoprotein ( a ) [ Lp ( a ) ] , and total homocysteine ( tHcy ) levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN NN CC NNS CC NN NN CC NN NNS",
+        "text": "Nonfasting serum lipid and lipoproteins and plasma tHcy and cysteine levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC NN NN NNS",
+        "text": "Serum folate and vitamin B12 levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN NN CC NN NN NNS",
+        "text": "total and non-HDL cholesterol and apo B levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "tHcy levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "tHcy"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN NNS IN NN NN CC NN",
+        "text": "Intake and serum levels of vitamin B12 and folate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN ( JJ ) , NN NN , CC NN NN",
+        "text": "serum folate ( negative ) , plasma creatinine , and sugar intake"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "tHcy"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "tHcy"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ JJ NN",
+        "text": "premature cardiovascular death"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "tHcy"
+    },
+    {
+        "label": "Pain",
+        "pos": "JJ NN NN ( NNS ) IN JJ RB NN",
+        "text": "numerical rating scale ( NRS ) of low back pain"
+    },
+    {
+        "label": "Pain",
+        "pos": "NNS IN NN NN",
+        "text": "NRS of leg pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "ODI"
+    },
+    {
+        "label": "Other",
+        "pos": "NN JJ NN IN NN",
+        "text": "patient global impression of change"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN ) IN DT NN NN",
+        "text": "motion ( ROM ) of the lumbar spine"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN RB NN VBG ( NN )",
+        "text": "degrees of straight leg raising ( SLR )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "ROM"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "SLR"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "calorific value"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "total ultrafiltration"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "equal ultrafiltration"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN CC NN",
+        "text": "Equilibration of creatinine and urea"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "creatinine clearance"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "Blood glycerol levels"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "haemolysis"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ",
+        "text": "toxic"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NNS IN NN",
+        "text": "Circulating levels of lactate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "pyruvate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "alanine"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "non-esterified fatty acids"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN NNS",
+        "text": "circulating lipid levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "oxidative stress"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "oxidative stress"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN ( NN )",
+        "text": "Superoxide dismutase ( SOD )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN )",
+        "text": "malonyl-dialdehyde ( MDA )"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN ( NN )",
+        "text": "reduced glutathione ( GSH )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN",
+        "text": "levels of MDA"
+    },
+    {
+        "label": "Other",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "SOD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN VBN NN ( NN )",
+        "text": "levels of reduced glutathione ( GSH )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN CC NN",
+        "text": "fall of MDA and SOD"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NNS IN NN",
+        "text": "increased levels of GSH"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "oxidative stress"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ ( NN , NN )",
+        "text": "oxidative ( MDA , GSH )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Oxidative stress"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "oxidative stress"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "oxidative stress"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "oxidative stress"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN NN",
+        "text": "post-dural puncture headache"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NNS WP VBN DT JJ NN NN",
+        "text": "number of patients who needed a second blood patch"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "effective"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "immunogenicity"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "immunogenicity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "Seroconversion"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "seroprotection rates"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "antibody concentrations"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ CC JJ NN NNS",
+        "text": "Local and systemic safety profiles"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP JJ NNS",
+        "text": "Immediate local reactions"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "Local reactions"
+    },
+    {
+        "label": "Pain",
+        "pos": "VBG RB IN JJ CC JJ NN",
+        "text": "consisting mostly of mild or moderate pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "Antibody concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN NNS",
+        "text": "HA seroprotection rates"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN NNS",
+        "text": "Vi seroprotection rates"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "tolerability"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "immunogenic"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "antibody levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN DT NN NN",
+        "text": "hyporesponsiveness of the typhoid response"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "local relapse-free rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "regional relapse-free rate"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN NN",
+        "text": "surgical complication rate"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ RB NN NN",
+        "text": "Serious late radiation toxicity"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "gastric ulcers"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN",
+        "text": "rate of ulcer healing"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "healing rate"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN ,",
+        "text": "pain relief ,"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood examination"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "adverse reactions"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "mEGF levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN JJ NNS",
+        "text": "healing of rat gastric ulcers"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN",
+        "text": "quality of colonoscopy"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "completion rate"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN",
+        "text": "cecal intubation time"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "efficient"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "success rate"
+    },
+    {
+        "label": "Other",
+        "pos": "NN VBN TO NN NN",
+        "text": "time required to reach cecum"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "Incomplete colonoscopy"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN",
+        "text": "cecal insertion time"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN",
+        "text": "cecal intubation rate"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "abdominal pressure"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN",
+        "text": "change of position"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN",
+        "text": "cecal intubation time"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NNS",
+        "text": "cecal intubation times"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN",
+        "text": "Cecal intubation time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "fluid retention"
+    },
+    {
+        "label": "Other",
+        "pos": "NN CC NNS",
+        "text": "Use and limitations"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "spontaneous ischemic episodes"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ JJ NNS",
+        "text": "recurrent myocardial ischemic events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "smoking"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "acid breath test"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "excretion rate"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS IN NN CC NN",
+        "text": "parameters of k and beta"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJR ( RBR ) VBG",
+        "text": "slower ( faster ) emptying"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( CD ) NNP ( CD ) NN NN",
+        "text": "half ( 13 ) CO ( 2 ) excretion time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN JJ ( CD ) NNP ( CD ) NN NN ( NN ( NN )",
+        "text": "time of maximal ( 13 ) CO ( 2 ) excretion rate ( t ( max )"
+    },
+    {
+        "label": "Other",
+        "pos": "NN , NN ( CD ) , CC NN ( NN )",
+        "text": "beta , t ( 1/2 ) , and t ( max )"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN",
+        "text": "increase in k"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "pedantic"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Physical",
+        "pos": "[ VBN NN NN IN CD JJ ( NN )",
+        "text": "[ forced expiratory volume in 1 second ( FEV1 )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN TO IN NN",
+        "text": "increase from to in FEV1"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN",
+        "text": "exacerbating asthma"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "Asthma symptom scores"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN NN",
+        "text": "supplemental rescue albuterol use"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN JJ NNS JJ TO NN",
+        "text": "number of nighttime awakenings due to asthma"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN JJ NNS",
+        "text": "serious drug-related adverse events"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "well-tolerated"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN NN",
+        "text": "improved lung function"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "sweating threshold"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "gain of sweating"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN DT NN NN",
+        "text": "increase in the sweating threshold"
+    },
+    {
+        "label": "Physical",
+        "pos": "VB DT NN IN NN",
+        "text": "reduce the gain of sweating"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Core temperature"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "skin temperature"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "chest sweating rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "sweating"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "core temperature"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "Plasma clonidine concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "gain of sweating"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "thermoregulatory effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "haemorrhagic diathesis"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "hepatic failure"
+    },
+    {
+        "label": "Mortality",
+        "pos": "VBD",
+        "text": "died"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ VBG",
+        "text": "major bleeding"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "VBG",
+        "text": "bleeding"
+    },
+    {
+        "label": "Mortality",
+        "pos": "VBN",
+        "text": "survived"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "intravascular coagulation"
+    },
+    {
+        "label": "Physical",
+        "pos": "CD NNS",
+        "text": "VIII levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "prothrombin ratio"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "II"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS CD CC NN",
+        "text": "factors IX and X"
+    },
+    {
+        "label": "Physical",
+        "pos": "CD",
+        "text": "IX"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "intravascular coagulation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "Bifidobacteria"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN",
+        "text": "Bifidobacterium longum"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "bifidobacteria"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "bifidobacteria"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN CC NN NN",
+        "text": "general distress or cancer-specific distress"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN VBG",
+        "text": "positive reappraisal coping"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN VBG",
+        "text": "denial coping"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "psychological distress"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ VBG CC NNS IN JJ NN",
+        "text": "adaptive coping and indicators of psychological growth"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NNP NN NN ( NN NN IN NN CC DT JJ )",
+        "text": "Gross Motor Function Measure ( dimension B for balance and the Total )"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NNP NNP",
+        "text": "Sitting Assessment Scale"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN",
+        "text": "Sitting balance"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN VBG NN",
+        "text": "improvements in sitting balance"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN DT NNP NNP NN NN",
+        "text": "total of the Gross Motor Function Measure"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NNP NNP",
+        "text": "Sitting Assessment Scale"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN",
+        "text": "sitting balance"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "gastric drainage volume"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS CC VBN NN",
+        "text": "therapeutic times and cured rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "gastric drainage volume"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN",
+        "text": "cured rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "therapeutic times"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN",
+        "text": "cured rate"
+    },
+    {
+        "label": "Other",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "therapeutic times"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "therapeutic times"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN",
+        "text": "cured rate"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN",
+        "text": "pain severity"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "analgesic intake"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN",
+        "text": "pain severity"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "clinical use"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "total hip BMD"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "Total hip BMD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Neck BMD"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Trochanteric BMD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN IN NN NN",
+        "text": "rate of change in hip BMD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN NN",
+        "text": "change in total hip BMD"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN IN DT NN",
+        "text": "associated with this estimate"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN NN NN",
+        "text": "calculated total hip BMD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "total hip BMD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "change in BMD"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ JJ NN",
+        "text": "satisfactory internal reliability"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "test-retest reliability"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "discriminant validity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "AQ-J"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "satisfactory sensitivity"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ JJ NN",
+        "text": "negative predictive value"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ JJ JJ NN",
+        "text": "low positive predictive value"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( VBG IN CD NNS RB VBN IN NN NN )",
+        "text": "AQ-J-21 ( consisting of 21 items significantly associated with HPDD diagnosis )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( VBG IN CD IN DT CD NNS IN DT JJR CD )",
+        "text": "AQ-J-10 ( consisting of 10 of the 21 items with an > 017 )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ",
+        "text": "satisfactory"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ JJ NNS",
+        "text": "positive predictive values"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "mild HPDD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNP JJ ( NNP ) NN NN",
+        "text": "total American Urological ( AUA ) symptom score"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN ( NN )",
+        "text": "maximum urinary flow ( Qmax )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN NN",
+        "text": "AUA symptom score"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Qmax"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ",
+        "text": "significant"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "improvements"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN",
+        "text": "tolerated"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "orthostatic hypotension"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NNS",
+        "text": "Vital sign changes"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "ventricular hypertrophy"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "ventricular hypertrophy"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "cardiac performance"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Mann-Whitney U-test"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN JJ NNS",
+        "text": "measured cardiac parameters"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "ventricular parameters"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "ventricular end-diastolic diameter"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood flow"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN JJ NN",
+        "text": "changes in cardiac structure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "access flow"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "cardiac function"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "blood samples"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CD NN",
+        "text": "Plasma FVIII activity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CD NN",
+        "text": "Plasma FVIII activity"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "time curves"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN ( NN )",
+        "text": "maximum plasma ( Cmax )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "plasma concentration"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS ( NNS )",
+        "text": "time curves ( AUCs )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS IN NN",
+        "text": "geometric means for Cmax"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "AUCs"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ",
+        "text": "bioequivalent"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN",
+        "text": "walking time"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN IN DT ( ) IN NNS IN RB VBG",
+        "text": "pain on the ( ) for activities of daily living"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ VBG NN",
+        "text": "comfortable walking time"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN IN NNS IN RB VBG",
+        "text": "pain during activities of daily living"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ VBG NN",
+        "text": "comfortable walking time"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJR NN NN NNS",
+        "text": "lower extremity joint mechanics"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ ( NN ) NNS",
+        "text": "muscle Electromyographic ( EMG ) patterns"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG IN DT NN",
+        "text": "maintaining of the trunk"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN",
+        "text": "preventing collapse"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJR NN NN NN",
+        "text": "Distinct lower extremity joint moment"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "patterns"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "support"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "reactive balance control"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "low-density lipoprotein cholesterol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "total cholesterol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NN NN",
+        "text": "total cholesterol-high-density lipoprotein cholesterol ratio"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN CC NN NNS",
+        "text": "high-density lipoprotein cholesterol and triglyceride levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NN",
+        "text": "low-density lipoprotein cholesterol level"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC NN NN NN",
+        "text": "blood pressure or plasma triglyceride concentration"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN NN",
+        "text": "fasting plasma insulin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "total cholesterol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Apo B"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NN NN",
+        "text": "Tissue plasminogen activator antigen concentration"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN JJ VBZ IN DT NN CC NN NNS",
+        "text": "number of horizontal overlaps for the loop and holder techniques"
+    },
+    {
+        "label": "Other",
+        "pos": "VBG",
+        "text": "overlapping"
+    },
+    {
+        "label": "Other",
+        "pos": "JJS NN IN NNS VBG DT JJ NN IN DT NN NN",
+        "text": "highest percentage of teeth showing the alveolar crest by the loop technique"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ VBG",
+        "text": "improper positioning"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN VBG",
+        "text": "minimal cone cutting"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Intragastric pH"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN IN DT JJ NN",
+        "text": "intragastric pH with a intragastric pH"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "pH"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "intragastric acidity"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "intragastric pH"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NNS",
+        "text": "repetitive behaviors"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "growth hormone response"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "specific neurobiological markers"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "core symptomatology"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "growth hormone response"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN DT NN IN JJ NN",
+        "text": "linked this measure of serotonergic function"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN JJ NNS",
+        "text": "severity of repetitive behaviors"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN JJ NNS IN NN",
+        "text": "severity of repetitive behaviors at baseline"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "YBOCS-compulsion score"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NN",
+        "text": "delta growth hormone response"
+    },
+    {
+        "label": "Physical",
+        "pos": "DT NN NN NN",
+        "text": "the growth hormone response"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN DT JJ JJ NN",
+        "text": "severity of a specific behavioral dimension"
+    },
+    {
+        "label": "Mental",
+        "pos": "( JJ NNS ) NNS DT NN",
+        "text": "( repetitive behaviors ) parallels the sensitivity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBN NN NN",
+        "text": "sumatriptan elicited GH response"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "adverse effects"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NNS",
+        "text": "pain scores"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN",
+        "text": "pain relief"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN NN NN NN NN",
+        "text": "required post-operative fentanyl infusion rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "plasma concentrations"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "infusion rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "plasma concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ CC JJ NNS",
+        "text": "Respiratory and cardiovascular functions"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "nausea"
+    },
+    {
+        "label": "Physical",
+        "pos": ",",
+        "text": ","
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "pruritus"
+    },
+    {
+        "label": "Physical",
+        "pos": ",",
+        "text": ","
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NNS IN NN CC NN",
+        "text": "periods of drowsiness or sleep"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "severe hypoglycemia"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN ( NN )",
+        "text": "severe hypoglycemia ( SH )"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "clinical utility"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN ( NNP )",
+        "text": "continuous glucose monitoring ( CGM )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS IN NN",
+        "text": "CGM-derived indices of hypoglycemia"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "SH rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "SH"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "SH frequency"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NNS",
+        "text": "CGM values"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "acceptability"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN IN CD NNS",
+        "text": "success rate at 48 hours"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "induction-to-abortion interval"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN IN CD NNS",
+        "text": "success rate at 48 hours"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN IN CD NNS",
+        "text": "success rate at 24 hours"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "induction-to-abortion interval"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "fever"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "success rate"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "abortion rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "metabolic effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN ( NN ) NNS IN NN",
+        "text": "standardized uptake value ( SUVmax ) reductions from baseline"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "Metabolic responses"
+    },
+    {
+        "label": "Physical",
+        "pos": "( CD ) NN NN JJ NNS",
+        "text": "( 18 ) F-FDG PET/CT metabolic rates"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "applicability"
+    },
+    {
+        "label": "Other",
+        "pos": "NN CC NN NNS",
+        "text": "retention and participation rates"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "physical improvements"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Mechanical efficiency"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "propulsion technique"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "mechanical efficiency"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Mechanical efficiency"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "oxygen uptake"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "heart rate"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "timing parameters"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "stroke angles"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "stroke pattern"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Mechanical efficiency"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "metabolic cost"
+    },
+    {
+        "label": "Other",
+        "pos": "VB NN",
+        "text": "Push time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "stroke angle"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN",
+        "text": "single-looping over propulsion"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "mechanical efficiency"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "metabolic cost"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "pain"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN",
+        "text": "post-thoracotomy pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NN",
+        "text": "postoperative pulmonary function"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NNS",
+        "text": "pain scores"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN , CC IN NN IN DT NN , VBN NN NN IN CD JJ ( NN )",
+        "text": "cough , and with movement of the ipsilateral , forced expiratory volume in 1 second ( FEV1 )"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN JJ NN ( NN )",
+        "text": "forced vital capacity ( FVC )"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "Opioid use"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "FEV1"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "FVC"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "FEV1"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NNS",
+        "text": "pain scores"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "Opioid usage"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "clinical response"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN )",
+        "text": "Plaque ( PI )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "BOP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "PD"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN ( NN )",
+        "text": "gingival margin position ( GMP )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ CC JJ JJ NN NN ( NN CC NN )",
+        "text": "relative vertical and horizontal clinical attachment level ( RVCAL and RHCAL )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ CC JJ NN NN ( NN CC NN )",
+        "text": "vertical and horizontal bone level ( VBL and HBL )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "RVCAL gains"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "RHCAL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN",
+        "text": "VBL and HBL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN DT VBG NN NNS",
+        "text": "number of the remaining class-II furcations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "PD"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ CC JJ NN NNS",
+        "text": "clinical and osseous attachment levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN TO NN NN NN",
+        "text": "class-II to class-I furcation conversion"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "abstinence"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "abstinence"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN JJ NN",
+        "text": "abstinence-specific structural support"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN JJ ( NNS IN NN NN , NN NN , CC NN ) VBN NN",
+        "text": "negative abstinence-specific functional ( Complaints about Drug Use , Drug Exposure , and Demoralization ) predicted cocaine"
+    },
+    {
+        "label": "Mental",
+        "pos": "VB NN",
+        "text": "opiate abstinence"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "abstinence"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS IN NN NN NNS",
+        "text": "rates of cocaine use disorders"
+    },
+    {
+        "label": "Physical",
+        "pos": "DT NN",
+        "text": "the health"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "birth weight"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "antibiotics"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN IN NN",
+        "text": "starting time of breast-feeding"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN JJ NN ( NNS )",
+        "text": "Autism Diagnostic Observation ( ADOS )"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNP NN NNP NNP ( NNS )",
+        "text": "Gilliam Autism Rating Scale ( GARS )"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN NNS",
+        "text": "core autism behaviours"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNP JJ NNP NNS ( NNS )",
+        "text": "Vineland Adaptive Behaviour Scales ( VABS )"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN NN NN CD NN ( NN )",
+        "text": "Attention-Deficit Hyperactivity Disorder - IV scale ( ADHD-IV )"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS",
+        "text": "ADOS"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS",
+        "text": "GARS"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "ADHD-IV"
+    },
+    {
+        "label": "Other",
+        "pos": "DT NN",
+        "text": "the procedure"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "therapeutic failure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NNS",
+        "text": "recurrence of urethral strictures"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "postprandial glucose"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "lipid response"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "postprandial glucose"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "insulin responses"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "postprandial glucose"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "insulin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "triglyceride concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "postprandial glucose peak"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "incremental glucose concentration"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ",
+        "text": "insulin incremental"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "glucose-lowering effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN NNS",
+        "text": "Postprandial triglyceride levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN",
+        "text": "Postprandial glucose"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "insulin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "triglyceride concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN , NNS NN , CD , CC NN",
+        "text": "VLDL , apolipoproteins B , CIII , and E"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "recurrent coronary events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "VLDL-apolipoprotein"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( DT NN NN ) , NN NNS",
+        "text": "B ( the VLDL particle ) , VLDL lipids"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN IN NN CC IN NN",
+        "text": "apoCIII and apoE in VLDL+LDL and in HDL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "VLDL-cholesterol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "VLDL-triglyceride"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN , NN",
+        "text": "VLDL-apoB , apoCIII"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "apoE in VLDL+LDL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "apoE in HDL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "VLDL-apoB"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "apoCIII in VLDL+LDL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "apoE in HDL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "Plasma triglycerides"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "coronary events"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "coronary events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "apoCIII in VLDL+LDL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "apoCIII"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN",
+        "text": "LDL and HDL-cholesterol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "VLDL particles"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN CC NN",
+        "text": "apoCIII in VLDL and LDL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood loss"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG",
+        "text": "bleeding"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NNS VBG JJ NN",
+        "text": "bleeding complications requiring surgical intervention"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "cardiovascular events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "cancer"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "cancer"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN",
+        "text": "cancer death"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "major cardiovascular events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "cancer incidence"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NNS",
+        "text": "cancer deaths"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS ( JJ NN , NN ,",
+        "text": "major cardiovascular events ( myocardial infarction , stroke ,"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "cardiovascular death"
+    },
+    {
+        "label": "Physical",
+        "pos": ")",
+        "text": ")"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "heart failure"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "unstable angina"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "revascularizations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "cancer incidence"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NNS",
+        "text": "cancer deaths"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "major cardiovascular events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "heart failure"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN IN NN NN",
+        "text": "hospitalization for heart failure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "cancer incidence"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NNS",
+        "text": "cancer deaths"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "major cardiovascular events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN NN",
+        "text": "rates of heart failure"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NNS IN NN NN",
+        "text": "hospitalizations for heart failure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "cancer"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "major cardiovascular events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "heart failure"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "cardiac arrhythmias"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "ventricular arrhythmias"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ",
+        "text": "Clinical"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ",
+        "text": "biochemical"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ JJ NNS",
+        "text": "48-hour ambulatory electrocardiographic data"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "Signal-averaged electrocardiograms"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NN",
+        "text": "LV posterior wall thickness"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN ( NN )",
+        "text": "Systolic blood pressure ( BP )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Serum potassium"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "ventricular premature contractions"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "ventricular tachycardia"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "signal-averaged electrocardiography"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "ventricular arrhythmias"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NNS",
+        "text": "signal-averaged electrocardiographic variables"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN IN DT JJ NN",
+        "text": "relational interpretation of the equal sign"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ VBG IN DT JJ NN",
+        "text": "conceptual understanding of the equal sign"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN VBG",
+        "text": "equation encoding"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN VBG",
+        "text": "problem solving"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ VBG",
+        "text": "conceptual understanding"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN NN NNS",
+        "text": "knowledge about inequality symbols"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN VBG",
+        "text": "inequality problem solving"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN",
+        "text": "radiocontrast-induced nephropathy"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN ( NN )",
+        "text": "contrast-induced nephropathy ( CIN )"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN",
+        "text": "Contrast-induced nephropathy"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN IN NN NN NN JJR CD NN",
+        "text": "increase in serum creatinine level > 25 %"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN IN NN NN",
+        "text": "change in creatinine clearance"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "CIN"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NNP NN NN",
+        "text": "Mehran nephropathy score"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "CIN"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "CIN"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "patient satisfaction"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNP IN NNP NN ( NN ) NN",
+        "text": "Victorian Institute of Sport Assessment-Achilles ( VISA-A ) score"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN NN",
+        "text": "reported compliance"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "patient satisfaction"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "VISA-A score"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "VISA-A score"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "patient satisfaction"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "well-tolerated"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN JJ NNS",
+        "text": "Levels of many vitamins"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "minerals"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "biomarkers"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "compliance"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "absorption"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "total sulfate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "S-adenosylmethionine"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "glutathione"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN TO VBN NN",
+        "text": "oxidized glutathione to reduced glutathione"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "nitrotyrosine"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "ATP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "NADH"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "NADPH"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNP NN",
+        "text": "Parental Global Impressions-Revised"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Hyperactivity"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG",
+        "text": "Tantrumming"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Receptive Language"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP IN DT NN",
+        "text": "Change of the PGI-R"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "recurrence-free survival"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "recurrence-free survival"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "Recurrence-free survival"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "tumor rate"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "Recurrence-free survival"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "tumor rate"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "recurrence-free survival"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "recurrence-free survival"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NNS",
+        "text": "number of tumor recurrences"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ",
+        "text": "Systolic"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "diastolic sphericity index"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN",
+        "text": "worsened outcome"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNP",
+        "text": "systolic SI"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNP",
+        "text": "diastolic SI"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN",
+        "text": "TEI index"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN",
+        "text": "changes in BNP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN",
+        "text": "changes in dP/dt"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "blood glucose control"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "tolerability"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN IN DT NN ( NN",
+        "text": "postprandial glucose under the AUC ( 0-2"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN ( NN NN ) IN JJ NN NN",
+        "text": "Postprandial AUC ( 0-2 h ) of intact glucagon-like peptide-1"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN )",
+        "text": "HbA ( 1c )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "DPP4 inhibition"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "adverse events"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN",
+        "text": "tolerated"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "blood glucose control"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN",
+        "text": "Clinic BP"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Ambulatory BP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "clinic BP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN JJ JJ NN CC JJ NN",
+        "text": "decrease in ambulatory daytime diastolic and arterial BP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC JJ NNS",
+        "text": "clinic and ambulatory BPs"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN ( NN )",
+        "text": "complete remission ( CR )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "partial remission"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBD TO NN",
+        "text": "failed to respond"
+    },
+    {
+        "label": "Mortality",
+        "pos": "VBD",
+        "text": "died"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN TO NN ( NN )",
+        "text": "survival time to failure ( TTF )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN TO NN ( NN ) NN",
+        "text": "time to relapse ( TTR ) survival"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "relapse rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NN",
+        "text": "persistent fibronecrotic mass"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "relapse rate"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "Toxicity"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "neutropenia"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "infection"
+    },
+    {
+        "label": "Mortality",
+        "pos": "VBG IN JJ NNS",
+        "text": "dying from septic complications"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "neutropenia"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "VBN NN",
+        "text": "documented infection"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "Smoking cessation"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "smoking cessation"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "smoking cessation"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN NNS",
+        "text": "Smoking cessation rates"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN NNS",
+        "text": "Point-prevalence abstinence rates"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NNS",
+        "text": "continuous abstinence rates"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN NN",
+        "text": "6-month point prevalence"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN",
+        "text": "tolerated"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "adverse events"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN JJ NN",
+        "text": "short-term of smokeless tobacco"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "long-term efficacy"
+    },
+    {
+        "label": "Other",
+        "pos": "NN VBG DT JJ",
+        "text": "time touching the adult"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "effective"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ JJ NN ( NN )",
+        "text": "distal social behavior ( attention )"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "effective"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ JJ NN ( VBG )",
+        "text": "proximal social behavior ( touching )"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN CC NN",
+        "text": "irritation or symptom"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "VBN CC JJ NN IN NN",
+        "text": "generalized and intense erythema in cervix"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "Vulvar irritation"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN , NN , CC NN",
+        "text": "ulcer , exulceration , or de-epithelialization"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "Pain"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN",
+        "text": "pain score"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "recovery"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN",
+        "text": "combined"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "death"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Other",
+        "pos": "JJ RB NN",
+        "text": "unplanned first hospitalization"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "quality-of-life changes"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "hospitalization"
+    },
+    {
+        "label": "Physical",
+        "pos": ",",
+        "text": ","
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "death"
+    },
+    {
+        "label": "Physical",
+        "pos": ",",
+        "text": ","
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "adherence"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ IN NN",
+        "text": "composite of death"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "unplanned hospitalization"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "hospitalization"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "quality-of-life score"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "Mortality"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN IN NNS",
+        "text": "Number of hospitalizations"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN NNS IN DT NN",
+        "text": "total hospital days during the follow-up"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN NNS",
+        "text": "need for emergency visits"
+    },
+    {
+        "label": "Other",
+        "pos": "NNP NNS",
+        "text": "Beneficial effects"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "unplanned hospitalization"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN NNS",
+        "text": "total hospital days"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN NN",
+        "text": "need for emergency care"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN",
+        "text": "improved"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "program adherence"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "function"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN",
+        "text": "walking speed"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "position sense"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "functional capacity"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN",
+        "text": "walking speed"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "muscle torque"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VB NN",
+        "text": "knee reposition error"
+    },
+    {
+        "label": "Physical",
+        "pos": "VB NN",
+        "text": "reposition error"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "WOMAC function scale"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "function"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "muscle strength"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "position sense"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBG NNS",
+        "text": "complex walking tasks"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ ( NN ) NN CC JJ NNS",
+        "text": "Arterial ( SaO2 ) blood and vital signs"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC JJ NN NN JJ NN NN , NN CC NN",
+        "text": "oxygenation level or systolic blood pressure Diastolic blood pressure , respiration and pulse"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN IN JJ NNS",
+        "text": "optimal enhancement of abdominal organs"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "vessels"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "enhancement"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "diagnostic acceptability"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "Qualitative assessment"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN IN RB NNS",
+        "text": "Homogenous enhancement of deep veins"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN ( NN )",
+        "text": "survival ( OS )"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN NN",
+        "text": "secondary graft failure"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "mortality"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "mortality"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "arrhythmic death"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NNS",
+        "text": "nonarrhythmic deaths"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "arrhythmic death"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "nonarrhythmic death"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ IN NN",
+        "text": "yearly of mortality"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "sudden death"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NNS",
+        "text": "nonarrhythmic deaths"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NN",
+        "text": "nonsudden death"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN IN NN",
+        "text": "Menopausal quality of life"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN IN NN",
+        "text": "menopause-related quality of life"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ CC NN NNS",
+        "text": "Short and long-term effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NNS",
+        "text": "salivary cortisol concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN ) NN",
+        "text": "hypothalamic-pituitary-adrenal ( HPA ) axis"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ CC NN NN IN JJ NN",
+        "text": "basal diurnal and total secretion of salivary cortisol"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Salivary cortisol"
+    },
+    {
+        "label": "Physical",
+        "pos": "VB CC VB NN NNS",
+        "text": "assess and compare cortisol concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN , , ( )",
+        "text": "impact of , , ( )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN IN NN",
+        "text": "duration and severity of PD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN JJ NN IN DT NN",
+        "text": "effects of interventional time-point of the day"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS IN NN NN",
+        "text": "levodopa doses on cortisol concentration"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "cortisol concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "Cortisol concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NNS",
+        "text": "salivary cortisol concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "cortisol concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": ", , NN",
+        "text": ", , BMI"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "time-point for intervention"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN IN NN NN NN CC NN",
+        "text": "time interval between anti-parkinson pharmacy intake and sampling"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS , NN , CC NN IN NN",
+        "text": "levodopa doses , duration , or severity of PD"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NN NN",
+        "text": "Diurnal salivary cortisol rhythm"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NNS",
+        "text": "Salivary cortisol concentrations"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "salivary cortisol concentration"
+    },
+    {
+        "label": "Mental",
+        "pos": "VBG",
+        "text": "Sunbathing"
+    },
+    {
+        "label": "Mental",
+        "pos": "VBN NN",
+        "text": "sunbed use"
+    },
+    {
+        "label": "Mental",
+        "pos": "VBN",
+        "text": "sunbathed"
+    },
+    {
+        "label": "Mental",
+        "pos": "VBN NNS",
+        "text": "used sunbeds"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJR VBN NN TO NN",
+        "text": "higher perceived susceptibility to melanoma"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN NN",
+        "text": "perception of susceptibility"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ",
+        "text": "susceptible"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN VBG",
+        "text": "reason for sunbathing"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "death"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN IN DT NN",
+        "text": "rehospitalization for any reason"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "death"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN IN JJ CC JJ NNS",
+        "text": "rehospitalization for cardiovascular or renal reasons"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Blood urea"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "all-cause mortality"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN IN JJ NNS",
+        "text": "variety of adverse outcomes"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "moderate accuracy"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NNS IN VBN JJ NNS",
+        "text": "outcomes that included nonfatal events"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "hospital admissions"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "hospitalization rates"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "mortality"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "Hospital admissions"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "variables"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "hospital admissions"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS VBN TO NN",
+        "text": "subjects admitted to hospital"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS IN NN",
+        "text": "days in hospital"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBG NN NN NN NN ( NN )",
+        "text": "Morning predosing supine diastolic blood pressure ( DBP )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "supine DBP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Blood pressure"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "adverse events"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ",
+        "text": "antihypertensive"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "instrument insertions"
+    },
+    {
+        "label": "Other",
+        "pos": "JJR NNS IN NN",
+        "text": "smaller volumes of CO2"
+    },
+    {
+        "label": "Other",
+        "pos": "VBG NN",
+        "text": "operating time"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ JJ NNS",
+        "text": "Minor omental injuries"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS IN NNP NN NNS",
+        "text": "costs for Medicaid PCS/waiver services"
+    },
+    {
+        "label": "Other",
+        "pos": "NNP NNS",
+        "text": "Medicaid services"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS IN JJ NN NNS",
+        "text": "expenditures for personal care/waiver services"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS IN JJ NN NNS",
+        "text": "costs for personal care/waiver services"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNP NNS",
+        "text": "total Medicaid costs"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "cost differences"
+    },
+    {
+        "label": "Other",
+        "pos": "NN VB IN NN",
+        "text": "cost shrink over time-to"
+    },
+    {
+        "label": "Other",
+        "pos": "NNP NNS",
+        "text": "Medicaid costs"
+    },
+    {
+        "label": "Other",
+        "pos": "VB DT NNS",
+        "text": "receive any services"
+    },
+    {
+        "label": "Other",
+        "pos": "JJR NN IN DT NN IN NN",
+        "text": "lower proportion of the amount of care"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN TO JJ NN",
+        "text": "LDL resistance to oxidative modification"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN",
+        "text": "calculating time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "propagation rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN IN VBN NNS",
+        "text": "maximum production of conjugated dienes"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "propagation rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN NN NNS",
+        "text": "plasma and LDL alpha-tocopherol contents"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN",
+        "text": "lengthened time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "propagation rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "maximum production"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "propagation rates"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "maximum production"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN TO NN",
+        "text": "resistance of LDL to oxidation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN",
+        "text": "LDL oxidative susceptibility"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "Perioperative"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Fever"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NNS ( VBG NNS )",
+        "text": "complications ( including infections )"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG IN NN CC NN (",
+        "text": "occurring between admission and discharge ("
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "death"
+    },
+    {
+        "label": "Physical",
+        "pos": ")",
+        "text": ")"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ",
+        "text": "Functional"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NNS",
+        "text": "neuropsychologic outcomes"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NNP NNP ( JJ CC DT NNS )",
+        "text": "dichotomized Glasgow Scale ( good versus all others )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Fever"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "fever"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN TO RB NN",
+        "text": "time from surgery to first fever"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NNS",
+        "text": "infections"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "fever"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "infection"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "fever-related"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "fever"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN JJ JJ NNS",
+        "text": "delayed ischemic neurological deficits"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NNPS IN NNP NN NNP NN",
+        "text": "National Institutes of Health Stroke Scale score"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NNS IN NNP VBG NN",
+        "text": "Barthel Activities of Daily Living index"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "discharge destination"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "fever"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "fever"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN JJ JJ NNS )",
+        "text": "delayed ischemic neurological deficits )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "fever"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "fever"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "Cytokine levels"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "systemic toxicity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "rates"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "secondary mediators"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "systemic toxicity"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN IN VBN NN NN",
+        "text": "Hypotension that required vasopressor support"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NNS",
+        "text": "systemic TNF levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN ( NN ) NNS",
+        "text": "systemic interleukin-6 ( IL-6 ) levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN ( NN ) , NN , CC NN NNS",
+        "text": "Intracellular adhesion molecule ( ICAM ) , IL-8 , and TNF-R levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN ( NN )",
+        "text": "objective rate ( ORR )"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN ( NN )",
+        "text": "progression-free survival ( PFS )"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN ( NN )",
+        "text": "survival ( OS )"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "ORR"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "PFS"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "OS"
+    },
+    {
+        "label": "Physical",
+        "pos": "CD NN",
+        "text": "3/4 leucopenia"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC CD NNS",
+        "text": "febrile neutropenia and 3/4 infections"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "CD NN NN",
+        "text": "3/4 non-haematologic toxicity"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "Congestive heart failure"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "anxiety symptoms"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "anxiety symptoms"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN NN NN VBN",
+        "text": "noninferiority of 9-month target vessel failure defined"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "cardiac death"
+    },
+    {
+        "label": "Physical",
+        "pos": ", JJ NN , CC NN NN NN",
+        "text": ", myocardial infarction , or target vessel revascularization"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "target vessel failure"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "periprocedural myocardial infarctions"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "cardiac death"
+    },
+    {
+        "label": "Physical",
+        "pos": ", JJ NN , NN NN NN , CC NN NN",
+        "text": ", myocardial infarction , target vessel revascularization , or stent thrombosis"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NN NN",
+        "text": "binary angiographic in-segment restenosis"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "target lesion revascularization"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Histological analysis"
+    },
+    {
+        "label": "Other",
+        "pos": ",",
+        "text": ","
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS NN",
+        "text": "PMNs/alveoli ratio"
+    },
+    {
+        "label": "Other",
+        "pos": ",",
+        "text": ","
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "wet/dry ratio"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "measurements"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC NN NN",
+        "text": "iNOS expression and NO production"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "cardiovascular assessment"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "cardiovascular assessment"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "assessments"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN DT NN JJ NN VBN IN NNS CC DT JJ NN",
+        "text": "difference between the 10-year cardiovascular percentage calculated by nurses and an independent assessor"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN DT NNS VBN IN DT NNS ( JJ , JJ CC JJ ) CC DT VBN IN DT JJ NN",
+        "text": "agreement between the categories assigned by the nurses ( low , moderate or high ) and those assigned by the independent assessor"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "cardiovascular risk"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "rise in TnT"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "TnT elevation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "TnT elevation"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "new ST depressions"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "myocardial infarctions"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN NN NNS",
+        "text": "list of target behaviors"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN NNP",
+        "text": "Aberrant Behavior Checklist"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NNP NN NNP",
+        "text": "Clinical Global Impression Scale"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "stereotypic behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN NNP",
+        "text": "Aberrant Behavior Checklist"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NNP NN NNP",
+        "text": "Clinical Global Impression Scale"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NNS ( VBN NNS IN VBG NNS , JJ NN , NN TO JJ , NN NNS , NNS , JJ NN , CC NN NN )",
+        "text": "oral health impacts ( perceived impacts on bleeding gums , gingival recession , sensitivity to cold , packing foods , aesthetics , bad breath , and tooth mobility )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN VBN NNS",
+        "text": "oral health perceived impacts"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NNS",
+        "text": "oral health impacts"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN , RB JJ NN NN , CC VBG IN VBG",
+        "text": "probing depth , deep clinical attachment level , and bleeding on probing"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "self-perceived impacts"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "mortality"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "co-morbidity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS CC JJR NN",
+        "text": "symptoms and poorer well-being"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS CC JJ NN NN",
+        "text": "ventricular dimensions and systolic dysfunction NT-proBNP"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "renal function"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "heart failure symptoms"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "patient well-being"
+    },
+    {
+        "label": "Mortality",
+        "pos": "VBD",
+        "text": "died"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN",
+        "text": "graft loss"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "acute rejection"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ JJ NNS",
+        "text": "serious adverse events"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ",
+        "text": "viral"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "fungal infections"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ",
+        "text": "posttransplant"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN (",
+        "text": "disorder ("
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "cause-specific survival"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "pattern of relapse"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NNS",
+        "text": "Chemotherapy-related toxicities"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NNS",
+        "text": "deaths"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "morbidity"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "drug effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "prolonged impairment"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN , NN NN",
+        "text": "motor tracking task , standing steadiness"
+    },
+    {
+        "label": "Mental",
+        "pos": ", CC NN",
+        "text": ", and memory"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "impaired memory"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "drug abuse"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NNS",
+        "text": "subjective abuse-relevant measures"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NNS",
+        "text": "Pain measurements"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN IN NN",
+        "text": "degree of analgesia"
+    },
+    {
+        "label": "Other",
+        "pos": "VBG RB DT NN NN",
+        "text": "setting up the infusion system"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN VBG NN CC JJ NN",
+        "text": "time between requesting analgesia and vaginal delivery"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN CC VBG",
+        "text": "Maternal oversedation and vomiting"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN",
+        "text": "Neonatal naloxone therapy"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NNS IN NN",
+        "text": "umbilical serum levels of fentanyl"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NN",
+        "text": "postnatal neuroadaptive testing"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "drug use"
+    },
+    {
+        "label": "Pain",
+        "pos": "VBG NN NN",
+        "text": "improving pain relief"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG",
+        "text": "avoiding"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "drowsiness"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Respiratory rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "heart rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "oxygen saturation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN , VBG , NNS",
+        "text": "presence of cyanosis , wheezing , retractions"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "respiratory score"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN",
+        "text": "Heart rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Oxygen saturation"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "effective"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "safe"
+    },
+    {
+        "label": "Other",
+        "pos": "NN VBN",
+        "text": "time required"
+    },
+    {
+        "label": "Other",
+        "pos": "VB",
+        "text": "quantify"
+    },
+    {
+        "label": "Other",
+        "pos": "VB DT NN VBN TO NN JJ NN NNS",
+        "text": "compare the time needed to treat commercial beef cattle"
+    },
+    {
+        "label": "Other",
+        "pos": "NN VBN",
+        "text": "time needed"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN ( NN ) NNS",
+        "text": "B-type natriuretic peptide ( BNP ) levels"
+    },
+    {
+        "label": "Other",
+        "pos": "NN JJ NN IN CD NNS",
+        "text": "total medical cost at 3 months"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "diagnostic certainty"
+    },
+    {
+        "label": "Other",
+        "pos": "NN TO JJ NN",
+        "text": "time to appropriate therapy"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "functional capacity"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "hospitalization"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "mortality"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN",
+        "text": "Heart failure"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NNS",
+        "text": "number of hospitalizations"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "functional status"
+    },
+    {
+        "label": "Other",
+        "pos": "NN JJ NN IN CD NNS",
+        "text": "total medical cost at 3 months"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "BNP"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "diagnostic certainty"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ RB JJ NN ( NN )",
+        "text": "minimal clinically important difference ( MCID )"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ VB NN TO VBP",
+        "text": "pictorial flip chart to describe"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "fibrillation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN DT JJ NN , DT JJ NN , CC DT JJ VBG NN",
+        "text": "consequences of a minor stroke , a major stroke , and a major bleeding episode"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN IN RB VBG NN",
+        "text": "chance of stroke if not taking warfarin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN DT JJ VBG NN IN VBG NN",
+        "text": "chance of a major bleeding episode if taking warfarin"
+    },
+    {
+        "label": "Other",
+        "pos": "NN ,",
+        "text": "inconvenience ,"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NNS",
+        "text": "minor side effects"
+    },
+    {
+        "label": "Other",
+        "pos": ", CC NNS IN NN NN",
+        "text": ", and costs of warfarin therapy"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS ( DT JJS NN IN NN IN WDT DT NNS VBD JJ TO VB NN )",
+        "text": "MCIDs ( the smallest reduction in stroke at which the patients were willing to take warfarin )"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS NN IN PRP$ NN NN",
+        "text": "Patients knowledge of their stroke risk"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN DT NN NN",
+        "text": "acceptability of the interview process"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS VBG PRP$ NNS",
+        "text": "factors determining their preferences"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "MCID"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "stroke risk"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN PRP$ NN NN",
+        "text": "knowledge of their stroke risk"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "MCID"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "MCID"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS NN IN PRP$ NN CC PRP$ NNS CC NN",
+        "text": "patients knowledge of their disease and its consequences and treatment"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "MCIDs"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN ( NNP )",
+        "text": "cardiac output ( CO )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "CO"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "cardiac output"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "hypoxemia"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "heart rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "cardiac output"
+    },
+    {
+        "label": "Other",
+        "pos": "( NN IN NN )",
+        "text": "( maintenance of remission )"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "tolerability"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "Relapse-free survival"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN",
+        "text": "number of NS relapses/patient/year"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN IN NN",
+        "text": "cumulative dose of prednisone/patient"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS ( NN CC NN NNS , JJ NNS )",
+        "text": "laboratory investigations ( kidney and liver functions , haematological parameters )"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "adverse events"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "complete remission"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "partial remission"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "complete remission"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "partial remission"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "relapse"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NNS IN NN",
+        "text": "number of relapses per year"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN IN NN",
+        "text": "dose of prednisone per year"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "relapse of NS"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN",
+        "text": "CsA-related side-effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "stable remissions"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "self-esteem"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS NN",
+        "text": "alcoholics self-esteem"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNP NN NNP ( NN )",
+        "text": "Tennessee Self-Concept Scale ( TSCS )"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "TSCS scales"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "Moral-Ethical scale"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ ( JJ ) NN",
+        "text": "altruistic ( moral ) behavior"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "autism"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ CC JJ NNS",
+        "text": "cognitive and behavioral attitudes"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ CC JJ NNS",
+        "text": "cognitive and behavioral attitudes"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NNS IN JJ NNS",
+        "text": "persuasive effects on behavioral attitudes"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "autism"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "gingival health"
+    },
+    {
+        "label": "Other",
+        "pos": "VB",
+        "text": "evaluate"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "gingival health"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ ( NN )",
+        "text": "gingival ( GI )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "gingival health"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN NNS",
+        "text": "Circulating tumour cells"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NNS",
+        "text": "circulating cells"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NNS",
+        "text": "Behavioral effects"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "Drug effects"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN NN",
+        "text": "ethological playroom observation"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN NNP NNS",
+        "text": "Aberrant Behavior Checklist ratings"
+    },
+    {
+        "label": "Mental",
+        "pos": "VBG NN",
+        "text": "activating influence"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "stereotypic behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS , NN , CC NN",
+        "text": "change toys , locomote , and talk"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "treatment"
+    },
+    {
+        "label": "Physical",
+        "pos": "CD NN NN IN JJ NNS",
+        "text": "20 % improvement from basal conditions"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ , NN , CC JJ JJ NN NNS",
+        "text": "clinical , laboratory , or specific neurological testing variables"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "rate"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "effective"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "effective dose"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN NNS",
+        "text": "adverse health effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "oronasal breathing"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "oronasal breathing"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN ( NN )",
+        "text": "duration of oronasal breathing ( tON )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN IN NN NN ( NNP ( IN ) )",
+        "text": "ventilation rate during oronasal breathing ( VE ( ON ) )"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN NN [ NN ]",
+        "text": "inhaled hydrogen ion [ H+ ]"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "prophylactic"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBN NN",
+        "text": "glyceryltrinitrate induced migraine"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "Headache"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN",
+        "text": "headache intensity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NNS",
+        "text": "middle cerebral arteries"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNP",
+        "text": "transcranial Doppler"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN DT JJ JJ CC JJ NNS",
+        "text": "diameter of the superficial temporal and radial arteries"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "high ultrasound"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBN",
+        "text": "GTN evoked"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN VBG NNS NNS",
+        "text": "migraine fulfilling IHS criteria"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN",
+        "text": "migraine attack"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "photophobia"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "phonophobia"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NNS IN VBN NN",
+        "text": "number of patients with induced migraine"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "headache intensity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "velocity"
+    },
+    {
+        "label": "Other",
+        "pos": "NN JJ NNS",
+        "text": "middle cerebral arteries"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN DT JJ JJ NN",
+        "text": "diameter of the superficial temporal artery"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN",
+        "text": "GTN human migraine"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NNS",
+        "text": "headache parameters"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "home blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN NN ( NN )",
+        "text": "Clinic blood pressure ( CBP )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "WCE"
+    },
+    {
+        "label": "Other",
+        "pos": "NNP",
+        "text": "ABP"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "HBP"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "systolic BP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "diastolic BP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "WCE"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "HBP"
+    },
+    {
+        "label": "Other",
+        "pos": "NNP",
+        "text": "ABP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "clinic reactors"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "HBP"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "HBP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP JJ NN NN",
+        "text": "Central nervous system function"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP JJ NN ( NN )",
+        "text": "Auditory Steady State ( ASSR )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ ( NNS ) NN IN NN",
+        "text": "Bispectral ( BIS ) analysis of electrooculogram"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "reversal of unconsciousness"
+    },
+    {
+        "label": "Physical",
+        "pos": "DT NN",
+        "text": "this reversal"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "unconsciousness"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "Unconsciousness"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "ASSR"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "BIS"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN",
+        "text": "restored consciousness"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "ASSR"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "BIS"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN IN NN",
+        "text": "physostigmine-induced reversal of unconsciousness"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "ASSR"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "BIS"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "ASSR"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "BIS"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "ASSR"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "BIS"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "optimal cosmetic result"
+    },
+    {
+        "label": "Other",
+        "pos": "NN CC NN NNS",
+        "text": "Investigator-based and patient-based ratings"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NNP NNP NNS",
+        "text": "investigator-based Wrinkle Severity Rating Scale assessments"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "superior"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "superior"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP JJ NN NNP NN",
+        "text": "Global Aesthetic Improvement Scale assessment"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "superior"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "superior"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "Optimal cosmetic result"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NNS ( NN , VBG , NN , CC NN )",
+        "text": "reactions ( redness , swelling , pruritus , and induration )"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "long-term safety"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "motor performance"
+    },
+    {
+        "label": "Other",
+        "pos": "NNP",
+        "text": "Anaesthesia"
+    },
+    {
+        "label": "Other",
+        "pos": "( NN ) NN JJ NN ( IN NN )",
+        "text": "( sd ) end tidal isoflurane ( per cent )"
+    },
+    {
+        "label": "Other",
+        "pos": "NN JJ NN",
+        "text": "light surgical anaesthesia"
+    },
+    {
+        "label": "Physical",
+        "pos": "( NN ) JJ NN ( NN )",
+        "text": "( sd ) arterial pressure ( mmHg )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "heart rate"
+    },
+    {
+        "label": "Other",
+        "pos": ",",
+        "text": ","
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "recovery time"
+    },
+    {
+        "label": "Other",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "quality of recovery"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "anaesthesia"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NN",
+        "text": "Junctional ectopic tachycardia"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN JJ NN ( NN )",
+        "text": "postoperative junctional ectopic tachycardia ( JET )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN",
+        "text": "factors for JET"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN",
+        "text": "effects of JET"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "postoperative morbidity"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "mortality"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "low operative weight"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN ( NNP ) NN",
+        "text": "cardiopulmonary bypass ( CPB ) duration"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NN NN NN NN",
+        "text": "immediate postoperative serum lactic acid level"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "mechanical ventilation time"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ JJ NN NN ( NN ) NN",
+        "text": "cardiac intensive care unit ( CICU ) stay"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "hospital stay"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "death"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "postoperative arrhythmia"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN NNS",
+        "text": "postoperative lactic acidosis levels"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "Mortality"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "morbidity"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "arterial blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "sodium metabolism"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "arterial blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "sodium metabolism"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN",
+        "text": "Night urinary sodium"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "potassium excretion"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "hypertension"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "urinary sodium excretion"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN JJ NN NN",
+        "text": "reduction of arterial blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Immunologic response"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN , VB NN IN JJ NN",
+        "text": "length of hospital stay , accelerate recovery of intestinal function"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NNS",
+        "text": "occurrence of post-operative complications"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ JJ NN",
+        "text": "humoral inflammatory cellular immunity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NNS",
+        "text": "number of lymphocyte subpopulations"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC NN NN NNS",
+        "text": "serum interleukin-6 and C-reactive protein levels"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN NN",
+        "text": "Post-operative hospital stay"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "post-operative morbidity"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "readmission rate"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "in-hospital mortality"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NNS",
+        "text": "post-operative inflammatory factors"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "Inflammatory reactions"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN IN NN CC NN NN NNS",
+        "text": "based on interleukin-6 and C-reactive protein levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN ( NN CC NN NNS , CC DT NN )",
+        "text": "specific immunity ( CD3+ and CD4+ counts , and the CD4+/CD8+ )"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NN NN",
+        "text": "Post-operative hospital stay"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NNS",
+        "text": "Post-operative complications"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "readmission rate"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "in-hospital mortality"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NNS IN DT NN IN NN NN CC NN",
+        "text": "post-operative inflammatory factors with a reduction in peri-operative trauma and stress"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NNS IN DT JJ NN",
+        "text": "protective effects via the immune system"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NNS",
+        "text": "improvement of post-operative results"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "restenosis"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "neointimal hyperplasia"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN IN NN NN",
+        "text": "Angiographic restenosis at 6-month angiography"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "Restenosis"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN NN NN",
+        "text": "need for target vessel revascularization"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "sirolimus blood concentration"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS IN NN",
+        "text": "angiographic parameters of restenosis"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "feasibility"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "Safety"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "clinical efficacy"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN",
+        "text": "survival on treatment"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "radiographic progression"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "adverse events"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "adverse events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "damage score"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN VBN NNS",
+        "text": "number of eroded joints"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "radiographic progression"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "operative time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "Intra-operative blood loss"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN NNS",
+        "text": "post-operative pain scores"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NNS",
+        "text": "pain scores"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NNS",
+        "text": "pain scores"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN NN",
+        "text": "reactionary post-tonsillectomy haemorrhage"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN NN",
+        "text": "secondary post-tonsillectomy haemorrhage"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "safe"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ TO NN",
+        "text": "easy to use"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "operative time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood loss"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NNS",
+        "text": "complication rates"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBG",
+        "text": "operative bleeding"
+    },
+    {
+        "label": "Pain",
+        "pos": "JJ NN NN",
+        "text": "immediate post-operative pain"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "operative time"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN",
+        "text": "post-operative pain"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN NN NN",
+        "text": "child IEP goal attainment"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ VBG CC NN NN",
+        "text": "cervical ripening and labor induction"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ VBG CC NN NN",
+        "text": "cervical ripening and labor induction"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN IN TO JJ NN",
+        "text": "interval from start of to vaginal delivery"
+    },
+    {
+        "label": "Other",
+        "pos": "NNP NN IN NN",
+        "text": "Oxytocin augmentation of labor"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS IN NN",
+        "text": "routes of delivery"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "tachysystole"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC NN JJ JJ NN NN NNS",
+        "text": "uterine hyperstimulation or hypertonus Abnormal fetal heart rate tracings"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "meconium passage"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NNS",
+        "text": "Apgar scores"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS ,",
+        "text": "neonatal resuscitations ,"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS TO DT JJ JJ NN NN",
+        "text": "admissions to the neonatal intensive care unit"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "effective"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ VBG CC DT IN NN",
+        "text": "cervical ripening and the of labor"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS TO NN",
+        "text": "time intervals to delivery"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN NN",
+        "text": "need for oxytocin augmentation"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS IN NN",
+        "text": "routes of delivery"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "uterine tachysystole"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood pressure"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "effective"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "blood pressure control"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "anxiety severity"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "state"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "trait anxiety"
+    },
+    {
+        "label": "Other",
+        "pos": "NN CC IN FW NN IN NN",
+        "text": "vitro and in vivo release of digoxin"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN IN NN",
+        "text": "urinary excretion of digoxin"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "plasma level"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "plasma level"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "plasma level"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ IN NN",
+        "text": "local of tumor"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN CD NN NN ( NN IN VBG NNS CC VBG NN NNS )",
+        "text": "Year 1 program participation ( degree of attending sessions and submitting fat scores )"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN TO DT NN JJ NN ( NN NN IN NN )",
+        "text": "adherence to the low-fat dietary pattern ( percent energy from fat )"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJR JJ NN",
+        "text": "poorer mental health"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "dietary adherence"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ VBG",
+        "text": "physical functioning"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "session attendance"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "mental health"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "dietary adherence"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "session attendance"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "abstinence"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "abstinence outcomes"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS CC NN CC NN NNS",
+        "text": "characteristics and posttreatment and cocaine outcomes"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS IN NN NN",
+        "text": "durations of cocaine abstinence"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "cocaine-negative sample"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "cocaine abstinence"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN",
+        "text": "Postoperative morphine consumption"
+    },
+    {
+        "label": "Pain",
+        "pos": "JJ NN NN NNS",
+        "text": "Visual analogue pain scores"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "rate"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "rate"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN ( NN NNS )",
+        "text": "Survival ( Kaplan-meire s )"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "disease-free life"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "Hematologic toxicities"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "immuno-enhancement activities"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "exercise capacity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "6-minute walk test"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "6-minute walk test"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "Adverse effects"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN",
+        "text": "tolerated"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "water immersion calorimetry"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "thermogenic response"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "thermogenesis"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "loss"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NN",
+        "text": "resting metabolism"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Serum hemoglobin"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN NN",
+        "text": "volume of irrigation fluid"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN IN NN NN",
+        "text": "blood loss in irrigation fluid"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood loss"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG",
+        "text": "bleeding"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood loss"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "anginal frequency"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "nitroglycerin consumption"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN",
+        "text": "Treadmill time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "rate-pressure product"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS IN NN",
+        "text": "ST-segment depressions at exercise"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "coronary blood flow"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "constipation"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ CC JJ",
+        "text": "safe and effective"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "mask acceptance"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "anxiety"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "sedation"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "anxiety"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "sedation"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ CC NN NN NN",
+        "text": "systolic and diastolic blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "heart rate"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ JJ NNS",
+        "text": "minor adverse effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood pressure"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "atherogenic lipids"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN NNS",
+        "text": "peripheral CD34+ cell counts"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJR NN NNS",
+        "text": "higher CD34+ counts"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "CD34+ count"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN NN NN",
+        "text": "cytokine-only peripheral CD34+ cell mobilization"
+    },
+    {
+        "label": "Other",
+        "pos": "NN CC JJ NN",
+        "text": "feasibility and diagnostic utility"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "heterozygote rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ IN NN NNS",
+        "text": "wide of 17-OHP levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "17-OHP"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Genetic disequilibrium"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC JJ JJ NNS",
+        "text": "CYP21 and other relevant markers"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "sensitivity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN IN JJ NNS",
+        "text": "CYP21 heterozygote for classic mutations"
+    },
+    {
+        "label": "Mental",
+        "pos": "VBN NN NN NN NNS",
+        "text": "improved skin cancer prevention behaviors"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJR JJ NNS IN NN NN",
+        "text": "greater positive changes in prevention behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS NNS NN IN NN , NNS , CC NNS , CC NNS NN IN NN , CC NN NNS",
+        "text": "children s use of sunscreen , shirts , and hats , and parents use of shade , and skin examinations"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ CC VBN NNS CC JJ NNS VBN NN NNS",
+        "text": "small and perceived benefits and social norms mediated intervention effects"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "Effects"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "pain"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "pain"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN",
+        "text": "pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "anemia"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "symptomatic anemia"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "hematocrit level"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "hematocrit"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN NN",
+        "text": "changes in hematocrit level"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "transfusion requirements"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "Quality-of-life"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "hematocrit"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "hematocrit"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "hematocrit"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "hematocrit level"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS IN NN VBN IN NN",
+        "text": "units of blood transfused per patient"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "energy level"
+    },
+    {
+        "label": "Other",
+        "pos": "NN TO VB RB NNS",
+        "text": "ability to perform daily activities"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "toxic effects"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "diaphoresis"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "diarrhea"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "anemia"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS TO NN",
+        "text": "opportunities to respond"
+    },
+    {
+        "label": "Mental",
+        "pos": "VBN NNS IN VBG CC JJ NN",
+        "text": "increased levels of responding and academic engagement"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJR NNS",
+        "text": "higher gains"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN JJ CC NNS",
+        "text": "criterion-referenced pre and posttests"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN",
+        "text": "decreased"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN CC JJ NN NN",
+        "text": "passive and inappropriate student behavior"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "Antidepressant response"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNP NN CC NN NNS",
+        "text": "Hamilton Depression and Anxiety Scales"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NNP NN",
+        "text": "Clinical Global Severity"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "Improvement Ratings"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNP NN NN NNP",
+        "text": "Zung Self-Rating Depression Scale"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN DT NNP NN NNP",
+        "text": "sleep of the Hamilton Depression Scale"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN NNS",
+        "text": "anticholinergic side effects"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN",
+        "text": "dry mouth"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "constipation"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "sleepiness"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "tiredness"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN CC NN",
+        "text": "appetite and gain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "grades"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN JJ VBG ( NN ) NNS",
+        "text": "percentage of glottic opening ( POGO ) scores"
+    },
+    {
+        "label": "Other",
+        "pos": "NN TO VB",
+        "text": "time to intubate"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN NNS",
+        "text": "number of intubation attempts"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN JJ NNS",
+        "text": "use of alternate techniques"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "good laryngoscopic views"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Cormack-Lehane grade"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NNS",
+        "text": "poor laryngoscopic views"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Cormack-Lehane grade"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN , JJ NN , CC JJ NNS",
+        "text": "mucosal trauma , sore throat , and hemodynamic responses"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN CC VBG",
+        "text": "postoperative nausea and vomiting"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN VBG",
+        "text": "Occurrence of vomiting"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN VBG DT ( )",
+        "text": "severity of nausea using a ( )"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "rescue medication"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN",
+        "text": "pain intensity"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "pain medications"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "postoperative nausea"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "language"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNP",
+        "text": "IQ"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN",
+        "text": "language"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS NNS NNP NNS",
+        "text": "Children s Sleep Habits"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "sleep diaries"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN NN",
+        "text": "home-recorded time-lapse videosomnography"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN NN",
+        "text": "sleep-wake state organization"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "executive function"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "executive function"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NNS , DT CC DT ( NN )",
+        "text": "Neuropsychological tasks , the and the ( WCST )"
+    },
+    {
+        "label": "Other",
+        "pos": "NNP NN NN",
+        "text": "Stroop Color-Word condition"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS",
+        "text": "WCST performances"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NNS CC NNS VBN",
+        "text": "Non-perseverative Errors and Categories Completed"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "stool fat excretion"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN ( )",
+        "text": "fat absorption ( )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN ( NN )",
+        "text": "Stool fat ( g/day )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "fat absorption"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NN IN NN",
+        "text": "correct diagnosis rate for cancer"
+    },
+    {
+        "label": "Pain",
+        "pos": "JJ NN",
+        "text": "mild pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC IN NN",
+        "text": "introduction and during collection"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NNS",
+        "text": "quantity of cells"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "B-thromboglobulin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CD NN NNS",
+        "text": "platelet 4 plasma levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN )",
+        "text": "B-thromboglobulin ( B-TG )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CD ( NN ) NN NNS",
+        "text": "platelet 4 ( PF4 ) plasma levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "ADP-induced platelet aggregation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "B-TG"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "PF4 plasma levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "ADP-induced platelet aggregation"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS IN NN NN",
+        "text": "Basal levels of plasma B-TG"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "PF4"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "ADP-induced platelet aggregation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "B-TG plasma levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "PF4 plasma levels"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ CC JJ NN NNP",
+        "text": "Positive and Negative Syndrome Scale"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNP NN NNP NNP",
+        "text": "Hamilton Depression Rating Scale"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNP NN NNP NNP",
+        "text": "Extrapyramidal Symptom Rating Scale"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJR NN IN JJ NN",
+        "text": "greater improvement on negative subscale"
+    },
+    {
+        "label": "Physical",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NNS",
+        "text": "adverse effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NNS IN CC IN NN",
+        "text": "reduction in aura attacks with or without headache"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN NNS IN CC IN DT NN",
+        "text": "reduction in migraine headache days with or without an aura"
+    },
+    {
+        "label": "Physical",
+        "pos": "( ) NNS IN NN",
+        "text": "( ) attacks of aura"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS IN CC IN NN",
+        "text": "migraine headache days with or without aura"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN",
+        "text": "tolerated"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "LDL-cholesterol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "plasma triacylglycerol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "triacylglycerol levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "plasma LDL-cholesterol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "triacylglycerol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "total ApoB"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJR NN NNS",
+        "text": "smaller VLDL particles"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "intermediate density lipoprotein"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN NN IN NN",
+        "text": "total fractional catabolic rate of VLDL1-ApoB"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS IN SYM , SYM CC NN",
+        "text": "production rates of VLDL2 , IDL or LDL"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "VLDL1-ApoB production rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "LDL-ApoB catabolism"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NNS",
+        "text": "catabolism of triacylglycerol-rich lipoproteins"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN",
+        "text": "catabolism of VLDL1-ApoB"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "VLDL2-ApoB"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "IDL-ApoB"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "VLDL1-ApoB"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN NN",
+        "text": "depletion of tissue pathway inhibitor"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "TFPI activity"
+    },
+    {
+        "label": "Other",
+        "pos": ",",
+        "text": ","
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN NN",
+        "text": "plasma free TFPI antigen"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "heparin releasable TFPI"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN NN NN",
+        "text": "levels of total TFPI activity"
+    },
+    {
+        "label": "Other",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "free TFPI antigen"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN IN VBN JJ NN NN ( NN )",
+        "text": "maximal prolongation of activated partial thromboplastin time ( APTT )"
+    },
+    {
+        "label": "Other",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN NN NN CC NN NN NN",
+        "text": "levels of anti-factor Xa activity and anti-factor IIa activity"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "free TFPI antigen"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ JJ NN NN",
+        "text": "basal free TFPI antigen"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN IN NN",
+        "text": "Minimal depletion of TFPI"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "platelet thromboxane formation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NN",
+        "text": "Stimulated platelet thromboxane formation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS IN NN CD CC NNS TO NN CC NN",
+        "text": "plasma levels of platelet 4 and responses to collagen and ADP"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "thromboxane formation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBN NN IN NN NN",
+        "text": "Exercise induced change of thromboxane synthesis"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "PF4 plasma levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN IN NN NN",
+        "text": "Whole blood after collagen stimulation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( CD NN ) VBN NN",
+        "text": "ADP ( 5 microM ) induced aggregation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN NN",
+        "text": "collagen dependent platelet activation"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS CC NN NNS",
+        "text": "skin ulcers or abscess cavities"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ JJ CC NN NNS",
+        "text": "adverse clinical and laboratory reactions"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ",
+        "text": "mild"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "safe"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "efficacious"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ",
+        "text": "convenient"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "cost-effective"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "Sex behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NNS CC NNS IN NN NN",
+        "text": "rates and predictors of sex behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN JJ NN",
+        "text": "high-risk sexual behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "sex behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "high-risk sex"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN JJ NN",
+        "text": "high-risk sexual behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN JJ NN",
+        "text": "high-risk sexual behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "sex behavior"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "sex behavior"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ CC JJ NN",
+        "text": "frontal and central CNV"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "reaction times"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN NN NN",
+        "text": "induced blood pressure elevation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN",
+        "text": "blood pressure elevation"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "onset time"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "relative resistance"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN NN",
+        "text": "delayed onset time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN )",
+        "text": "ventriculogram ( LVG )"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Apical hypertrophy"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "circumferential hypertrophy"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNP",
+        "text": "apical HCM"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "hypertrophy"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NNS",
+        "text": "Performance characteristics"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC JJ NN",
+        "text": "rickets and tibial dyschondroplasia"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "leg problems"
+    },
+    {
+        "label": "Physical",
+        "pos": "VB IN RB NN JJ",
+        "text": "accumulate as much bone ash"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC NN NN",
+        "text": "bone mineralization and bone pathology"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS IN NN",
+        "text": "probabilities of relapse"
+    },
+    {
+        "label": "Mortality",
+        "pos": "JJ NNS IN NN",
+        "text": "actuarial probabilities of survival"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "relapse-free survival"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NNS IN NN NN",
+        "text": "probabilities of transplant-related mortality"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ TO JJ JJ NN NN",
+        "text": "moderate to severe acute graft-versus-host disease"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "relapse probability"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN",
+        "text": "improved"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "survival"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "A1C reduction"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "A1C"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "A1C"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "FPG"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "A1C"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "FPG"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ JJ NNS",
+        "text": "serious hypoglycemic events"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "FPG"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "A1C"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG NNS ( JJ )",
+        "text": "lying BPs ( systolic/diastolic )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS ( JJ )",
+        "text": "standing BPs ( systolic/diastolic )"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBG CC NN NN NNS",
+        "text": "lying and standing heart rates"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NNS",
+        "text": "antihypertensive properties"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN VBG CC VBZ NN",
+        "text": "fear of falling and falls efficacy"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS NNP CC DT VBN NNS NNP",
+        "text": "Falls Scale and the Modified Falls Scale"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN VBG CC VBZ NN",
+        "text": "Fear of falling and falls self-efficacy"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS CC VBN NNS NNS",
+        "text": "Falls and Modified Falls Scales"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN IN VBG",
+        "text": "Fear of falling"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "self-efficacy"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS NNP",
+        "text": "Falls Scale"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN NNS NNP",
+        "text": "Modified Falls Scale"
+    },
+    {
+        "label": "Other",
+        "pos": "VB",
+        "text": "withdraw"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "insurance status"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "withdrawal"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "cumulative infarction rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NN NN",
+        "text": "accelerated infarction rate"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN JJ IN NN",
+        "text": "10-year cumulative of death"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "myocardial infarction"
+    },
+    {
+        "label": "Mortality",
+        "pos": "VBN IN NN IN NN",
+        "text": "estimated of death after infarction"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN NN",
+        "text": "postinfarction mortality"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN IN DT NN IN NN",
+        "text": "death in the absence of infarction"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "myocardial infarction"
+    },
+    {
+        "label": "Mortality",
+        "pos": "NN",
+        "text": "mortality"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "Immunogenicity"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "immunogenicity"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "immunogenicity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "anti-HBs response"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "anti-HBs response"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "anti-HBs conversion rates"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN CC NN ( NN TO NN NN NN NN ) JJ",
+        "text": "HBsAg and/or anti-HBc ( antibody to hepatitis B core antigen ) positive"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJ NN NNS",
+        "text": "serious side effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN VBN NN",
+        "text": "volume of drained blood"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "transfusion requirements"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "knee motion"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "wound status"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "blood loss"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN",
+        "text": "morbidity"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "Cure rates"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "microleakage"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "In-hospital costs"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "safety"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "hospital costs"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "resource use"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "cost data"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "clinical outcomes"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN",
+        "text": "procedure duration"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "equipment costs"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NNS",
+        "text": "physician services"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN NNS",
+        "text": "initial hospital costs"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "clinical outcomes"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NNS",
+        "text": "initial costs"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "clinical outcomes"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NNS",
+        "text": "initial costs"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "costs"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN ( NN )",
+        "text": "endogenous leucine flux ( ELF )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN ( NNP )",
+        "text": "leucine oxidation ( LOX )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN ( NN )",
+        "text": "non-oxidative leucine disposal ( NOLD )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "ELF"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC NN NN",
+        "text": "plasma AA and branched-chain KA"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP",
+        "text": "LOX"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "NOLD"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN NN NNS",
+        "text": "basal plasma AA/branched-chain KA levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN NN",
+        "text": "plasma branched-chain KA concentration"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "NOLD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "NOLD"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NNS",
+        "text": "plasma AA levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "Immunological changes"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NNS",
+        "text": "immunological changes"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "surgical response"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "immunological response"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS , NN NN IN NNS",
+        "text": "leukocyte counts , HLA-DR expression on monocytes"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NNS IN NN NN ( NN )",
+        "text": "acute-phase by means of C-reactive protein ( CRP )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN )",
+        "text": "interleukin-6 ( IL-6 )"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN ( NN )",
+        "text": "interleukin-8 ( IL-8 )"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN IN NN , NN NN , CC NN",
+        "text": "measured by cortisol , growth hormone , and prolactin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS , NN , CC NN",
+        "text": "leukocyte counts , IL-8 , and prolactin"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN , NN , CC NN NNS",
+        "text": "HLA-DR expression , IL-6 , and CRP levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS CC NN NNS",
+        "text": "leukocyte counts and IL-8 levels"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJR JJ NNS",
+        "text": "fewer respiratory infections"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "prolactin levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "response"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "symptom control"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP NN NNP ( NNS ) NN",
+        "text": "American Fertility Society ( AFS ) reduction"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "hormonal profile"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "Symptom control"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS NN",
+        "text": "patients tolerance"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBN NNS NN",
+        "text": "posttherapy revised AFS score"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "hormonal profile"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN NN",
+        "text": "Pain control"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBG",
+        "text": "breakthrough bleeding"
+    },
+    {
+        "label": "Physical",
+        "pos": "VBN NNS NN",
+        "text": "revised AFS score"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "Adequate pituitary suppression"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "hypoestrogenic state"
+    },
+    {
+        "label": "Other",
+        "pos": "VBN",
+        "text": "tolerated"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "JJR JJ NNS",
+        "text": "fewer adverse effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN VBN",
+        "text": "tumor regressed"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN NN IN NN NN NN",
+        "text": "volume reduction rate of individual tumor nodule"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "tumor shrinkage"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NNS",
+        "text": "number of nodules"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN JJ NN",
+        "text": "rate of secondary hemorrhage"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "visual acuity"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN [ NN ]",
+        "text": "intraocular pressure [ IOP ]"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "initial hyphema size"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "secondary hemorrhage"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "rebleed rate"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "cement pressurization"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "radiolucency"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "radiolucent lines"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "nutritional knowledge"
+    },
+    {
+        "label": "Other",
+        "pos": "NN TO NN NNS",
+        "text": "adherence to food guidelines"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "anthropometrics"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "anthropometric parameters"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN IN NN NN",
+        "text": "sodium excretion in 24-hour urine"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "dietary recall"
+    },
+    {
+        "label": "Mental",
+        "pos": "NN NN",
+        "text": "nutrition knowledge"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "questionnaires"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "nutritional knowledge"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "anthropometric parameters"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "knowledge"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN",
+        "text": "quality of diet"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "costs"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "effects"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "costs"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "impact"
+    },
+    {
+        "label": "Other",
+        "pos": "NNS",
+        "text": "Costs"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "cholesterol levels"
+    },
+    {
+        "label": "Other",
+        "pos": "NN NN NN",
+        "text": "total per-person cost"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "Cholesterol levels"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "cholesterol"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "cholesterol reduction"
+    },
+    {
+        "label": "Pain",
+        "pos": "( ) IN NN NN , NN NN NN CC JJ NN",
+        "text": "( ) of rest pain , uterine contration pain and dynamic pain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN JJ NN ( NN )",
+        "text": "patient-controlled epidural analgesia ( PCEA )"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN NN",
+        "text": "dose of analgesia mixture"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "anal exhaust time"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN JJ VBG IN CD NNS IN NN",
+        "text": "volume of postoperative bleeding for 6 hours of postoperation"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "NN NNS",
+        "text": "side effects"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "PONV"
+    },
+    {
+        "label": "Other",
+        "pos": "NN IN NN",
+        "text": "rate of metoclopramide"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN CC JJ NNS NN IN NN",
+        "text": "total number and effective compressions number of PCEA"
+    },
+    {
+        "label": "Physical",
+        "pos": "DT NN NN IN JJ NNS NN",
+        "text": "the total number with effective compressions number"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN NN NN",
+        "text": "dose of analgesia mixture"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "anal exhaust time"
+    },
+    {
+        "label": "Adverse-effects",
+        "pos": "",
+        "text": ""
+    },
+    {
+        "label": "Physical",
+        "pos": "NN IN JJ VBG",
+        "text": "volume of postoperative bleeding"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "PONV"
+    },
+    {
+        "label": "Pain",
+        "pos": "NN IN NN",
+        "text": "analgesia of PCEA"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NN",
+        "text": "sodium burden"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "ionic mass balance"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "Interdialytic gain"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNP JJ NN NN",
+        "text": "Predialysis systolic blood pressure"
+    },
+    {
+        "label": "Other",
+        "pos": "NN",
+        "text": "reduction"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "convective sodium removal"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN NN",
+        "text": "diffusive sodium removal"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "physical activity"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "physical activity"
+    },
+    {
+        "label": "Other",
+        "pos": "JJ NN",
+        "text": "physical activity"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN",
+        "text": "dietary intake"
+    },
+    {
+        "label": "Mental",
+        "pos": "JJ NN JJ NNP",
+        "text": "Physical Activity Healthy Eating"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "hypertension"
+    },
+    {
+        "label": "Physical",
+        "pos": "NNS",
+        "text": "diabetes"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN NNS",
+        "text": "confidence intervals"
+    },
+    {
+        "label": "Physical",
+        "pos": "NN",
+        "text": "RR"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ VBG",
+        "text": "rectal bleeding"
+    },
+    {
+        "label": "Physical",
+        "pos": "JJ NN",
+        "text": "colorectal cancer"
+    }
+]
